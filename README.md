@@ -16,3 +16,5 @@ The Goal:
 The plan shows how a small team of two, with a small investment, can build this tool and grow it into a very profitable company by solving this major, time-wasting problem for businesses.
 
 So, at its core, **it's about stopping important team knowledge from getting lost.
+
+https://g.co/gemini/share/7cc3a24417a3
